@@ -26,6 +26,7 @@ Design an interactive dashboard for business stakeholders to analyze sales perfo
 - Sales_Performance_Dashboard.pbix
 - Task_4_Dashboard_Summary.pptx
 - Screenshots of dashboard
+- sales dataset
 
 ## 👨‍💻 Author
 Jayanth B
