@@ -8,6 +8,9 @@ Design an interactive dashboard for business stakeholders to analyze sales perfo
 - Kaggle Sales Dataset
 
 ## 📌 Dashboard Features
+
+<img width="1323" height="748" alt="dashboard_overview" src="https://github.com/user-attachments/assets/81a6eece-62bd-4081-b36c-ef8a4e391c78" />
+
 - KPI Cards (Revenue, Orders, Profit, Profit Margin)
 - Revenue Trend Over Time
 - Profit Margin Trend
